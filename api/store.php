@@ -1,7 +1,7 @@
 <?php
 
-include_once "./utils.php";
-require_once '../vendor/autoload.php';
+include_once __DIR__ . "/utils.php";
+require_once __DIR__ . '/../vendor/autoload.php';
 
 use Appwrite\Client;
 use Appwrite\Services\Databases;
