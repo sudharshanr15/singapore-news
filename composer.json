@@ -1,0 +1,17 @@
+{
+    "name": "sudharshan/fake_news_site",
+    "autoload": {
+        "psr-4": {
+            "Sudharshan\\FakeNewsSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sudharshan R",
+            "email": "sudharshanrms2004@gmail.com"
+        }
+    ],
+    "require": {
+        "appwrite/appwrite": "15.0.0"
+    }
+}
